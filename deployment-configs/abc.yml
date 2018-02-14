@@ -17,7 +17,7 @@
 ---
 
 pod_config:
-  repo_url: 'https://gerrit.opencord.org/pod-configs'
+  repo_url: 'https://github.com/gfiber/pod-configs.git'
   file_name: 'abc.yml'
 
 make_release: 'false'
